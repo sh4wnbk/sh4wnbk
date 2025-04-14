@@ -1,9 +1,9 @@
 # Hi, I’m @sh4wnbk 👋
 
 ## About Me
-- 👀 I’m interested in AI/Machine Learining/Deep Learning, Python, C++, data science and web development
+- 👀 I’m interested in Remote Sensing, GIS, AI/Machine Learining/Deep Learning, Neural Networks, Python, C++, data science and web development
 - 🌱 Currently learning all of the above
-- 💬 Ask me about coding/programming, tech, horses, and motorsports (MotoGP, Formula 1)
+- 💬 Ask me about remote sensing, data visualizations, coding/programming, tech, horses, and motorsports (MotoGP, Formula 1)
 - 📫 How to reach me: See "Connect with Me."
 - ⚡ Fun fact: I love exploring new technologies.
 
