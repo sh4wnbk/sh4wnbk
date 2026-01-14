@@ -7,9 +7,14 @@
 - 📫 How to reach me: See "Connect with Me."
 - ⚡ Fun fact: I love exploring new technologies.
 
-## Projects Here are some of the projects I've been working on:
-- [Project 1](https://github.com/sh4wnbk/natural-hazards-classifier): A logistic regression-based project for predicting landslide risks using environmental data.
-- [Project 2](https://sh4wnbk.github.io/artisan/index.html): A website exhibiting the work of a visual artist.
+## 🚀 Featured Projects
+
+### [Cadillac F1 Watch-Along Hub](https://sh4wnbk.github.io/cadillac-f1-event/)
+**Frontend Development | CodePath WEB101 Final Project**
+- Built a high-performance, responsive landing page using **HTML5, CSS3, and JavaScript**.
+- Implemented advanced features including a **Fisher-Yates shuffle algorithm** for dynamic UI coloring and a persistent **Dark Mode** toggle.
+- Focused on accessibility by including a **Reduced Motion** mode for users with motion sensitivity.
+- [View Repository](https://github.com/sh4wnbk/cadillac-f1-event)
 
 ## SKILLS
 - Hands-on experience in Arc GIS PRO, Remote Sensing, and image classification
