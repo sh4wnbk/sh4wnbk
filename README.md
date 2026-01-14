@@ -21,6 +21,12 @@
 - Data Interpretation
 - Understanding of Data Visualization Tools
 - Understanding of Classification, Regression, and Clustering Techniques
+
+## 🤖 AI & LLM Development (CodePath AI-110)
+I am currently building AI-powered applications using the Google Gemini API. My development environment is configured for professional-grade security and scalability:
+- **Secure Authentication:** Configured system-wide SSH keys for secure GitHub communication.
+- **Environment Security:** Implementing `.env` and `.gitignore` patterns to prevent sensitive API key leaks.
+- **SDK Proficiency:** Experience with the latest `google-genai` Python SDK, including asynchronous requests and chat sessions.
   
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shawn-blackman-data-analyst/)
