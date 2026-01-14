@@ -39,6 +39,6 @@ I am currently building AI-powered applications using the Google Gemini API. My 
 - **SDK Proficiency:** Experience with the latest `google-genai` Python SDK, including asynchronous requests and chat sessions.
   
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-blackman-gis/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spaceinvader__) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-blackman-gis/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spaceinvader__)
 
 Feel free to check out my repositories!
