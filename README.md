@@ -7,6 +7,16 @@
 - 📫 How to reach me: See "Connect with Me."
 - ⚡ Fun fact: I love exploring new technologies.
 
+## 🛠️ My Tech Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **AI & Development** | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) |
+| **GIS & Remote Sensing** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis/overview) [![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)](https://earthengine.google.com/) |
+| **Interests** | [![Formula 1](https://img.shields.io/badge/Formula_1-E10600?style=for-the-badge&logo=formula-1&logoColor=white)](https://www.formula1.com/) [![MotoGP](https://img.shields.io/badge/MotoGP-D32D41?style=for-the-badge&logo=motogp&logoColor=white)](https://www.motogp.com/) |
+
+---
+
 ## 🚀 Featured Projects
 
 ### [Cadillac F1 Watch-Along Hub](https://sh4wnbk.github.io/cadillac-f1-event/)
@@ -27,19 +37,8 @@ I am currently building AI-powered applications using the Google Gemini API. My 
 - **Secure Authentication:** Configured system-wide SSH keys for secure GitHub communication.
 - **Environment Security:** Implementing `.env` and `.gitignore` patterns to prevent sensitive API key leaks.
 - **SDK Proficiency:** Experience with the latest `google-genai` Python SDK, including asynchronous requests and chat sessions.
-
-## 🛠️ My Tech Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **AI & Development** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **GIS & Remote Sensing** | ![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white) ![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white) |
-| **Interests** | ![Formula 1](https://img.shields.io/badge/Formula_1-E10600?style=for-the-badge&logo=formula-1&logoColor=white) ![MotoGP](https://img.shields.io/badge/MotoGP-D32D41?style=for-the-badge&logo=motogp&logoColor=white) |
-
----
   
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shawn-blackman-data-analyst/](http://www.linkedin.com/in/shawn-blackman-gis))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spaceinvader__)
+| **Connect** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-blackman-data-analyst/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spaceinvader__) |
 
 Feel free to check out my repositories!
