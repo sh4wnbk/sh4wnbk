@@ -11,8 +11,11 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **AI & Development** | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) |
-| **GIS & Remote Sensing** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis/overview) [![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)](https://earthengine.google.com/) |
+| **AI & Development** | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
+| **GIS & Remote Sensing** | [![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis/overview) [![Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)](https://earthengine.google.com/) ![GeoPandas](https://img.shields.io/badge/GeoPandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)|
 | **Interests** | [![Formula 1](https://img.shields.io/badge/Formula_1-E10600?style=for-the-badge&logo=formula-1&logoColor=white)](https://www.formula1.com/) [![MotoGP](https://img.shields.io/badge/MotoGP-D32D41?style=for-the-badge&logo=motogp&logoColor=white)](https://www.motogp.com/) |
 
 ---
