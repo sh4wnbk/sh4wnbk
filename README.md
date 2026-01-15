@@ -26,6 +26,14 @@
 - Focused on accessibility by including a **Reduced Motion** mode for users with motion sensitivity.
 - [View Repository](https://github.com/sh4wnbk/cadillac-f1-event)
 
+### [Mapping Disparate Risk: Induced Seismicity & SVI](https://github.com/sh4wnbk/induced-seismicity-gis-analysis)
+**Geospatial Analysis | Comparative Research Study**
+- Conducted a comparative study of **Oklahoma and Ohio** to analyze the spatial correlation between Class II disposal wells and anthropogenic seismic activity.
+- Integrated **CDC Social Vulnerability Index (SVI)** data to evaluate environmental justice and identify disproportionately affected communities.
+- Utilized **ArcGIS Pro** for advanced spatial techniques, including Bivariate Mapping, and Geodesic Buffering.
+- Produced high-resolution cartographic artifacts demonstrating a 77% correlation between disposal infrastructure and $M \geq 3.0$ seismic events in risk zones.
+- [View Full Research Paper](https://github.com/sh4wnbk/induced-seismicity-gis-analysis/blob/main/Shawn_Blackman_Mapping_Disparate_Risk_in_Oklahoma_and_Ohio.docx)
+
 ## SKILLS
 - Hands-on experience in Arc GIS PRO, Remote Sensing, and image classification
 - Data Interpretation
