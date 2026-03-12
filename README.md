@@ -34,7 +34,7 @@
 - Built a high-performance, responsive landing page using **HTML5, CSS3, and JavaScript**.
 - Implemented advanced features including a **Fisher-Yates shuffle algorithm** for dynamic UI coloring and a persistent **Dark Mode** toggle.
 - Focused on accessibility by including a **Reduced Motion** mode for users with motion sensitivity.
-- [View Repository](https://github.com/sh4wnbk/cadillac-f1-event)
+- [View Website](https://github.com/sh4wnbk/cadillac-f1-event)
 
 ### [Mapping Disparate Risk: Induced Seismicity & SVI](https://github.com/sh4wnbk/induced-seismicity-gis-analysis)
 **Geospatial Analysis | Comparative Research Study**
