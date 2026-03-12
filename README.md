@@ -19,6 +19,16 @@
 
 ## 🚀 Featured Projects
 
+### [IBM SkillsBuild Lab Assistant](https://github.com/sh4wnbk/IBM-skillsbuild-chatbot)
+**AI Engineering | IBM SkillsBuild Mini-Challenge**
+- Built a modular, test-driven chatbot using a **Senior AI Engineering workflow** governed by a `CLAUDE.md` ruleset.
+- Implemented a **weighted intent-matching engine** (`keyword_length × priority`) with 5 intents sourced from official IBM SkillsBuild documentation (watsonx.ai, Lab Orientation, Badges/Certificates, Curriculum, Community/Slack).
+- Engineered a **smart escalation strategy** that automatically flags low-confidence queries (< 25%) to the `#lab-support` Slack channel.
+- Achieved **58/58 passing tests** covering student frustration detection, nonsense inputs, multi-intent collisions, and platform-specific edge cases.
+- [View Repository](https://github.com/sh4wnbk/IBM-skillsbuild-chatbot)
+
+---
+
 ### [Cadillac F1 Watch-Along Hub](https://sh4wnbk.github.io/cadillac-f1-event/)
 **Frontend Development | CodePath WEB101 Final Project**
 - Built a high-performance, responsive landing page using **HTML5, CSS3, and JavaScript**.
