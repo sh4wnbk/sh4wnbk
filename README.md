@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-### [IBM SkillsBuild Lab Assistant](https://github.com/sh4wnbk/IBM-skillsbuild-chatbot)
+### [IBM SkillsBuild Lab Assistant](https://sh4wnbk.github.io/IBM-skillsbuild-chatbot/)
 **AI Engineering | IBM SkillsBuild Mini-Challenge**
 - Built a modular, test-driven chatbot using a **Senior AI Engineering workflow** governed by a `CLAUDE.md` ruleset.
 - Implemented a **weighted intent-matching engine** (`keyword_length × priority`) with 5 intents sourced from official IBM SkillsBuild documentation (watsonx.ai, Lab Orientation, Badges/Certificates, Curriculum, Community/Slack).
