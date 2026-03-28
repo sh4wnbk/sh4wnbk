@@ -51,10 +51,7 @@
 - Understanding of Classification, Regression, and Clustering Techniques
 
 ##  Web (CodePath WEB 101), 🤖 AI & LLM Development (CodePath AI-110)
-I am currently building AI-powered applications using the Google Gemini API. My development environment is configured for professional-grade security and scalability:
-- **Secure Authentication:** Configured system-wide SSH keys for secure GitHub communication.
-- **Environment Security:** Implementing `.env` and `.gitignore` patterns to prevent sensitive API key leaks.
-- **SDK Proficiency:** Experience with the latest `google-genai` Python SDK, including asynchronous requests and chat sessions.
+Currently enrolled in CodePath AI-110, building AI-powered applications in Python. Experience working across multiple AI coding tools including GitHub Copilot, Google Gemini, and Claude — evaluating and comparing their outputs rather than relying on any single tool uncritically.
   
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-blackman-gis/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/spaceinvader__)
