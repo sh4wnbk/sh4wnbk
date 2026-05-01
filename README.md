@@ -29,7 +29,7 @@
 
 ---
 
-### [Music Theory — Applied AI System](https://github.com/sh4wnbk/applied-ai-system-project)
+### [Music Theory — Applied AI System](https://sh4wnbk.github.io/applied-ai-system-project/)
 **Agentic AI | CodePath AI-110**
 - Seven-agent music recommendation pipeline that retrieves live data from Last.fm and Radio Browser, scores candidates by cosine similarity, and generates Glass Box explanations citing numerical evidence for every recommendation.
 - Implements a critique loop with a hard ceiling of three iterations — Hertz agent evaluates explanation quality and requests retrieval refinement if confidence is low.
