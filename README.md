@@ -19,6 +19,26 @@
 
 ## 🚀 Featured Projects
 
+### [AEGIS — Agentic Emergency Geospatial Intelligence Synthesizer](https://agentic-knowledge-synthesizer-production.up.railway.app/)
+**Agentic AI | IBM SkillsBuild AI Experiential Learning Lab 2026 | Government & Public Services**
+- Six-agent pipeline that fuses live federal data (USGS, CDC SVI, HHS emPOWER, EPA TRI) into a validated inter-agency routing brief in under 30 seconds.
+- Implements three governance checkpoints via an Overseer Agent — input audit, retrieval confidence validation, and citation alignment scoring — before any output reaches the dispatcher.
+- Deterministic agency routing table built from structured data; routing decisions are triggered by evidence, not language model output.
+- Validated across four induced seismicity incidents in Ohio and Oklahoma; citation alignment scores 63%–78.5%.
+- [View Repository](https://github.com/sh4wnbk/agentic-knowledge-synthesizer) · [Live Prototype](https://agentic-knowledge-synthesizer-production.up.railway.app/)
+
+---
+
+### [Music Theory — Applied AI System](https://github.com/sh4wnbk/applied-ai-system-project)
+**Agentic AI | CodePath AI-110**
+- Seven-agent music recommendation pipeline that retrieves live data from Last.fm and Radio Browser, scores candidates by cosine similarity, and generates Glass Box explanations citing numerical evidence for every recommendation.
+- Implements a critique loop with a hard ceiling of three iterations — Hertz agent evaluates explanation quality and requests retrieval refinement if confidence is low.
+- Optional MasterMix beat-matching adds BPM as a fifth cosine dimension with a ±5 BPM proximity filter, activated via `--bpm` runtime flag.
+- 34 MasterMix unit tests and a 10-profile evaluation harness covering edge cases including zero vectors, boundary constraints, and multilingual input.
+- [View Repository](https://github.com/sh4wnbk/applied-ai-system-project)
+
+---
+
 ### [IBM SkillsBuild Lab Assistant](https://sh4wnbk.github.io/IBM-skillsbuild-chatbot/)
 **AI Engineering | IBM SkillsBuild Mini-Challenge**
 - Built a modular, test-driven chatbot using a **Senior AI Engineering workflow** governed by a `CLAUDE.md` ruleset.
