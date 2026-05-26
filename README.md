@@ -19,7 +19,7 @@
 
 ## 🚀 Featured Projects
 
-### [AEGIS — Agentic Emergency Geospatial Intelligence Synthesizer](https://agentic-knowledge-synthesizer-production.up.railway.app/)
+### [AEGIS — Agentic Emergency Geospatial Intelligence Synthesizer](https://aegis-synthesizer.web.app/)
 **Agentic AI | IBM SkillsBuild AI Experiential Learning Lab 2026 | Government & Public Services**
 - Six-agent pipeline that fuses live federal data (USGS, CDC SVI, HHS emPOWER, EPA TRI) into a validated inter-agency routing brief in under 30 seconds.
 - Implements three governance checkpoints via an Overseer Agent — input audit, retrieval confidence validation, and citation alignment scoring — before any output reaches the dispatcher.
